@@ -1,0 +1,16 @@
+{
+  "name": "uts-essay-pbp",
+  "version": "1.0.0",
+  "description": "Project UTS Sistem Parkir Express.js",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
